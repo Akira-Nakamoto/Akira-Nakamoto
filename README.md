@@ -1,0 +1,3 @@
+- Hi, I’m @Akira-Nakamoto
+- I’m interested in Cryptography, Network Security, Analytics and Advanced Computational Sciences.
+- I’m currently learning Python, Ruby, Delphi, C++ and C
