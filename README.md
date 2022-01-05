@@ -41,3 +41,6 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira-nakamoto&" alt="akira-nakamoto" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akira-nakamoto&show_icons=true&locale=en" alt="akira-nakamoto" /></p>
+
+- [x] #1 
+- [ ] #2
