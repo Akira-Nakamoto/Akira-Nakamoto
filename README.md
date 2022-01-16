@@ -40,4 +40,3 @@
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32" height="32" /> </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira-nakamoto&" alt="akira-nakamoto" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akira-nakamoto&show_icons=true&locale=en" alt="akira-nakamoto" /></p>
