@@ -38,5 +38,6 @@
 	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="32" height="32" /> </a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="32" height="32" /> </a>
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="32" height="32" /> </a>
-</p>
+</p><hr>
+<p align="center">I am Akira Nakamoto. I am not real, although my code is.</p><hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira-nakamoto&" alt="akira-nakamoto" /></p>
